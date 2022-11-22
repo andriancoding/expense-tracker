@@ -1,5 +1,5 @@
 # Expense Tracker
-#### Video Demo:  <https://www.youtube.com/watch?v=Ng0U2vlkiiI>
+#### Video Demo:  <https://www.youtube.com/watch?v=DTxkNg3q2LI>
 #### Description:
 
 This program allows users to track expenses. Below are all the features of this program
