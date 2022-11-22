@@ -186,6 +186,7 @@ def get_expenses_stats(EXPENSE_FILE_NAME):
     else:
         raise FileNotFoundError("No expense tracker found")
 
+        
 def delete_expense_tracker(EXPENSE_FILE_NAME,CATEGORY_FILE_NAME):
     answer = input("Are you sure you want to delete the expense tracker including all data ? yes/no : ").strip()
     if answer == "yes":
